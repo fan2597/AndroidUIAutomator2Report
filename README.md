@@ -16,6 +16,12 @@
 报告保存路径：<sdcard>/Android/<包名>/files/report
 例如：/mnt/sdcard/Android/data/com.fxs.uireport/files/report
 
+## 报告展示
+![UI2REPORT](https://github.com/fan2597/AndroidUIAutomator2Report/blob/master/img/bg.png)
+
+## 打赏 觉得有帮助，可以给作者赏跟烟抽
+![打赏](https://github.com/fan2597/AndroidUIAutomator2Report/blob/master/img/zf.png)
+
 ## 鸣谢
 
 感谢zhangfei兄弟的模板！
